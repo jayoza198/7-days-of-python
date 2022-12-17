@@ -13,3 +13,11 @@ A curated repository made to understand and revise the concepts of python from s
   - Nested If
   - While
   - For
+  
+## Day 2
+-- Deep dive into dictonaries
+-- Learned about lists
+-- Discovered about scope variables
+-- Used and understood global variables
+-- Understood about functions
+-- Learned about lambda function
