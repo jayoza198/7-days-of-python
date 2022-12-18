@@ -25,7 +25,7 @@ A curated repository made to understand and revise the concepts of python from s
 
 ## Day 3
 - Understood the concepts of Error Handling in Python
-- Learned about invalid synatx
+- Learned about invalid syntax
 - Exceptions in Python
 - ZeroDivisionError
 - Exception Hierarchy
