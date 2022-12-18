@@ -21,3 +21,15 @@ A curated repository made to understand and revise the concepts of python from s
 - Used and understood global variables
 - Understood about functions
 - Learned about lambda function
+
+
+## Day 3
+- Understood the concepts of Error Handling in Python
+- Learned about invalid synatx
+- Exceptions in Python
+- ZeroDivisionError
+- Exception Hierarchy
+- Try and Except Statements
+- Catching Specific Exceptions
+- Try and Else Clause
+- Raising Exception
