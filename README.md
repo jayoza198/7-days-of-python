@@ -35,7 +35,7 @@ A curated repository made to understand and revise the concepts of python from s
 - Raising Exception
 
 ##Day 4
-- Understood the fundamental concept (class & Object0 of Objected Oriented Programming in Python
+- Understood the fundamental concept (class & Object) of Objected Oriented Programming in Python
 - The need of OOPs in python
 - Learnt how and where to use Encapsulation
 - Got a hold on Inheritance and its types
