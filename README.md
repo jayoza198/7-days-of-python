@@ -33,3 +33,19 @@ A curated repository made to understand and revise the concepts of python from s
 - Catching Specific Exceptions
 - Try and Else Clause
 - Raising Exception
+
+##Day 4
+- Understood the fundamental concept (class & Object0 of Objected Oriented Programming in Python
+- The need of OOPs in python
+- Learnt how and where to use Encapsulation
+- Got a hold on Inheritance and its types
+  - Single
+  - Multiple
+  - Multilevel
+  - Hierarchical
+  - Hybrid
+- Used super() function and its usecase
+- Also did the use of issubclass()
+- Understood the importance of Method Overriding
+- Did some basic codework on Polymorphism
+
