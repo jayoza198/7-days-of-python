@@ -35,7 +35,7 @@ A curated repository made to understand and revise the concepts of python from s
 - Raising Exception
 
 
-##Day 4
+## Day 4
 - Understood the fundamental concept (class & Object) of Objected Oriented Programming in Python
 - The need of OOPs in python
 - Learnt how and where to use Encapsulation
@@ -51,7 +51,7 @@ A curated repository made to understand and revise the concepts of python from s
 - Did some basic codework on Polymorphism
 
 
-##Day 5
+## Day 5
 - Understood datetime in python
 - Learned about the application of Multithreading and Multiprocessing
 - Learnt about state function in python
