@@ -34,6 +34,7 @@ A curated repository made to understand and revise the concepts of python from s
 - Try and Else Clause
 - Raising Exception
 
+
 ##Day 4
 - Understood the fundamental concept (class & Object) of Objected Oriented Programming in Python
 - The need of OOPs in python
@@ -49,3 +50,10 @@ A curated repository made to understand and revise the concepts of python from s
 - Understood the importance of Method Overriding
 - Did some basic codework on Polymorphism
 
+
+##Day 5
+- Understood datetime in python
+- Learned about the application of Multithreading and Multiprocessing
+- Learnt about state function in python
+- Used and example to understand instances in python
+- Learnt about in-built methods for sets, lists and dictonaries
