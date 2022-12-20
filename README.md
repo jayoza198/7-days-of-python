@@ -56,4 +56,4 @@ A curated repository made to understand and revise the concepts of python from s
 - Learned about the application of Multithreading and Multiprocessing
 - Learnt about state function in python
 - Used and example to understand instances in python
-- Learnt about in-built methods for sets, lists and dictonaries
+- Learnt about in-built methods for sets, lists and dictionaries
