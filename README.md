@@ -67,3 +67,12 @@ A curated repository made to understand and revise the concepts of python from s
   - close()
 - Understood the concepts of pickling and unpickling 
 - Performed the operations of slicing in list
+
+
+## Day 7
+- Built a News app 
+  - Simple UI
+  - Made with Tkinter
+  - Uses the concepts of OOPs in python
+  - News API is used to fetch the news
+  - Read more option enables the user to read the information redirecting to the website
