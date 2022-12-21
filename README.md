@@ -61,9 +61,9 @@ A curated repository made to understand and revise the concepts of python from s
 
 ## Day 6
 - Implemented File I/O in python
-- - open()
-- - read()
-- - write()
-- - close()
+  - open()
+  - read()
+  - write()
+  - close()
 - Understood the concepts of pickling and unpickling 
 - Performed the operations of slicing in list
