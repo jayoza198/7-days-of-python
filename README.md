@@ -57,3 +57,9 @@ A curated repository made to understand and revise the concepts of python from s
 - Learnt about state function in python
 - Used and example to understand instances in python
 - Learnt about in-built methods for sets, lists and dictionaries
+
+
+## Day 6
+- Implemented File I/O in python
+- Understood the concepts of pickling and unpickling 
+- Performed the operations of slicing in list
